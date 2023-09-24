@@ -1,0 +1,9 @@
+The project Infopy Requires the following libraries in order to function:
+1. from tkinter import *              #For GUI (pip install tkinter)
+2. import pyqrcode                    #For QR code generation (pip install pyqrcode)
+3. from PIL import ImageTk, Image     #For Image and file creation (pip install PIL)
+4. import os                          #For Saving of image on desktop
+5. from tkinter import filedialog     #For Opening File manager to store png image
+
+
+In addition to this the project also requires and empty qr.png file to store and display the generated QR Code.
