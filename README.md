@@ -26,4 +26,4 @@ You might run into some conjections and some errors while running the applicatio
 
 # Conclusion
 
-This application was made possible because of EdX course on Introduction to Python Programing and i would like to thank our tutor Sir David.J Malan for his wonderfull explination about the language. This project is comes under MIT License and can be modified and distributed for further use. Thankyou
+This application was made for public and as a personal project. This project is comes under MIT License and can be modified and distributed for further use. Thankyou
